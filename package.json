@@ -1,0 +1,9 @@
+{
+  "name": "krivaten-api",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "mongoose": "~3.8.8",
+    "express": "~3.4.8"
+  }
+}
