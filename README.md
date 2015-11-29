@@ -1,18 +1,22 @@
-Krivaten API
-============
+#Express API#
+Taking a shot at creating a basic API with [Express](http://expressjs.com/) and [Mongoose](http://mongoosejs.com/)
 
-A simple starter API using [Express](http://expressjs.com/) and [Mongoose](http://mongoosejs.com/)
+##Installation##
+* `npm install`
+* `node app.js`
+* Go to [localhost:3000](http://localhost:3000)
 
-## Getting Started
-You must have [Node.js](http://nodejs.org/) installed as well as [NPM](https://npmjs.org/)
+##Grunt Commands##
+* `grunt` dist
+* `grunt` dev
 
-Run `npm install` to install dependencies
-
-Run `node app.js` or `nodemon app.js` if you have it installed.
-
-Go to [localhost:3000](http://localhost:3000)
-
-## Current Paths
-
+##Notes##
 * [localhost:3000/thread](http://localhost:3000/thread)
 * [localhost:3000/thread/title](http://localhost:3000/thread/title) where `title` is the value of the title property
+
+#Contact#
+* Email: charlietopjian@gmail.com
+* Github: [http://github.com/ctopjian](http://github.com/ctopjian)
+
+#Resources#
+* [https://docs.npmjs.com/cli/install](NPM install options)

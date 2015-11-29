@@ -10,8 +10,8 @@ var Post = require('../models/post.js');
 
 exports.demo = function(req, res) {
 	new Thread({
-		title: 'Blam', 
-		author: 'One Of The Keebler Elves'
+		title: 'You don\'t know JS', 
+		author: 'Great'
 	}).save();
 }
 
